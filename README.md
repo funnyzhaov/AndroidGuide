@@ -1,16 +1,6 @@
 ### [AndroidGuide](https://github.com/leavesC/AndroidGuide)
 
-### 一、这是什么？
 
-🎁🎁 一份给 Android Developer 的进阶不完整指南，包含 Android 系统源码解析、Jetpack 源码解析、热门开源库源码解析等多个面试必备的知识点，希望对你有所帮助 😇😇
-
-### 二、在哪里看？
-
-公众号：[**字节数组**](https://s3.ax1x.com/2021/02/18/yRiE4K.png)
-
-掘金：[**业志陈**](https://juejin.cn/user/923245496518439/posts)
-
-![公众号：字节数组](https://s3.ax1x.com/2021/02/18/yRiE4K.png)
 
 
 
